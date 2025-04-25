@@ -29,8 +29,8 @@ body {
     text-transform: uppercase;
 }
 
-.nav-link:hover {
-    color: #f4f4f4;
+.nav-link:hover, .footer-link:hover {
+    color: #0064c9;
 }
 
 .landing-container {
@@ -122,5 +122,5 @@ body {
 }
 
 .footer-link:hover {
-    color: #f4f4f4;
+    color: #0064c9; 
 }
